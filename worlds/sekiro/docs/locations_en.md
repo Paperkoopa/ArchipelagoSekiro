@@ -1,9 +1,11 @@
 # Sekiro: Shadows Die Twice Locations
 
-[Game Page] | [Items] | Locations
+[Game Page] | [Setup] | [Items] | Locations | [Enemy Randomization]
 
-[Game Page]: /worlds/sekiro/docs/en_Sekiro%20Shadows%20Die%20Twice.md
-[Items]: /worlds/sekiro/docs/items_en.md
+[Game Page]: /games/Sekiro:%20Shadows%20Die%20Twice/info/en
+[Setup]: /tutorial/Sekiro:%20Shadows%20Die%20Twice/setup/en
+[Items]: /tutorial/Sekiro:%20Shadows%20Die%20Twice/items/en
+[Enemy Randomization]: /tutorial/Sekiro:%20Shadows%20Die%20Twice/enemy-randomization/en
 
 ## Table of Contents
 

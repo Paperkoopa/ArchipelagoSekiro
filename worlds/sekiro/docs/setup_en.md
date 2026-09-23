@@ -1,5 +1,12 @@
 # Sekiro: Shadows Die Twice Randomizer Setup Guide
 
+[Game Page] | Setup | [Items] | [Locations] | [Enemy Randomization]
+
+[Game Page]: /games/Sekiro:%20Shadows%20Die%20Twice/info/en
+[Items]: /tutorial/Sekiro:%20Shadows%20Die%20Twice/items/en
+[Locations]: /tutorial/Sekiro:%20Shadows%20Die%20Twice/locations/en
+[Enemy Randomization]: /tutorial/Sekiro:%20Shadows%20Die%20Twice/enemy-randomization/en
+
 ## Required Software
 
 - [Sekiro: Shadows Die Twice]
