@@ -2,10 +2,10 @@
 
 [Game Page] | Setup | [Items] | [Locations] | [Enemy Randomization]
 
-[Game Page]: /games/Sekiro:%20Shadows%20Die%20Twice/info/en
-[Items]: /tutorial/Sekiro:%20Shadows%20Die%20Twice/items/en
-[Locations]: /tutorial/Sekiro:%20Shadows%20Die%20Twice/locations/en
-[Enemy Randomization]: /tutorial/Sekiro:%20Shadows%20Die%20Twice/enemy-randomization/en
+[Game Page]: /worlds/sekiro/docs/en_Sekiro%20Shadows%20Die%20Twice.md
+[Items]: /worlds/sekiro/docs/items_en.md
+[Locations]: /worlds/sekiro/docs/locations_en.md
+[Enemy Randomization]: /worlds/sekiro/docs/enemy-randomization_en.md
 
 ## Required Software
 

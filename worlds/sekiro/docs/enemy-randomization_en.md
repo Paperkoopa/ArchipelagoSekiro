@@ -2,10 +2,10 @@
 
 [Game Page] | [Setup] | [Items] | [Locations] | Enemy Randomization
 
-[Game Page]: /games/Sekiro:%20Shadows%20Die%20Twice/info/en
-[Setup]: /tutorial/Sekiro:%20Shadows%20Die%20Twice/setup/en
-[Items]: /tutorial/Sekiro:%20Shadows%20Die%20Twice/items/en
-[Locations]: /tutorial/Sekiro:%20Shadows%20Die%20Twice/locations/en
+[Game Page]: /worlds/sekiro/docs/en_Sekiro%20Shadows%20Die%20Twice.md
+[Setup]: /worlds/sekiro/docs/setup_en.md
+[Items]: /worlds/sekiro/docs/items_en.md
+[Locations]: /worlds/sekiro/docs/locations_en.md
 
 If `enemy_randomizer` in your Sekiro player config YAML is enabled, bosses, minibosses and basic enemies will
 be shuffled with themselves respectively if they are enabled.

@@ -2,16 +2,16 @@
 
 Game Page | [Setup] | [Items] | [Locations] | [Enemy Randomization]
 
-[Setup]: /tutorial/Sekiro:%20Shadows%20Die%20Twice/setup/en
-[Items]: /tutorial/Sekiro:%20Shadows%20Die%20Twice/items/en
-[Locations]: /tutorial/Sekiro:%20Shadows%20Die%20Twice/locations/en
-[Enemy Randomization]: /tutorial/Sekiro:%20Shadows%20Die%20Twice/enemy-randomization/en
+[Setup]: /worlds/sekiro/docs/setup_en.md
+[Items]: /worlds/sekiro/docs/items_en.md
+[Locations]: /worlds/sekiro/docs/locations_en.md
+[Enemy Randomization]: /worlds/sekiro/docs/enemy-randomization_en.md
 
 ## What do I need to do to randomize Sekiro?
 
 See full instructions on [the setup page].
 
-[the setup page]: /tutorial/Sekiro:%20Shadows%20Die%20Twice/setup/en
+[the setup page]: /worlds/sekiro/docs/setup_en.md
 
 ## What does randomization do to this game?
 
@@ -65,7 +65,7 @@ items by setting the `exclude_locations` field in your YAML to the [location
 groups] you want to omit. For example, this is the default setting but without
 `Headless` so that those locations can contain progression items:
 
-[location groups]: /tutorial/Sekiro:%20Shadows%20Die%20Twice/locations/en#location-groups
+[location groups]: /worlds/sekiro/docs/locations_en.md#location-groups
 
 ```yaml
 Shadows Die Twice:
@@ -111,7 +111,7 @@ better understand them, check out the [location guide], which explains all the
 names used in locations and provides more detailed descriptions for each
 individual location.
 
-[location guide]: /tutorial/Sekiro:%20Shadows%20Die%20Twice/locations/en
+[location guide]: /worlds/sekiro/docs/locations_en.md
 
 ## Where can I learn more about Sekiro items?
 
@@ -119,4 +119,4 @@ Check out the [item guide], which explains the named groups available for items
 as well as the custom items added to the game for the 
 `Additional Progression Blockers` option.
 
-[item guide]: /tutorial/Sekiro:%20Shadows%20Die%20Twice/items/en
+[item guide]: /worlds/sekiro/docs/items_en.md
