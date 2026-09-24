@@ -237,7 +237,7 @@ RemoveSource: Divine Dragon; Demon of Hatred; Spear Adept
 ### OopsAll
 
 Assigning an enemy or a pool to `OopsAll` sets all pools to that specific enemy or category of enemy. This can still be
-overridden using [individual enemy assginments](#individual-assignments), but otherwise every enemy is replaced by
+overridden using [individual enemy assignments](#individual-assignments), but otherwise every enemy is replaced by
 this setting.
 
 ```yaml
